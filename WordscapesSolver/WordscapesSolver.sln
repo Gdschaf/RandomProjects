@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WordscapesSolver", "WordscapesSolver\WordscapesSolver.vcxproj", "{BCC9A76A-CBEE-42C4-BF93-2F21B8973EFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCC9A76A-CBEE-42C4-BF93-2F21B8973EFD}.Debug|x64.ActiveCfg = Debug|x64
+		{BCC9A76A-CBEE-42C4-BF93-2F21B8973EFD}.Debug|x64.Build.0 = Debug|x64
+		{BCC9A76A-CBEE-42C4-BF93-2F21B8973EFD}.Debug|x86.ActiveCfg = Debug|Win32
+		{BCC9A76A-CBEE-42C4-BF93-2F21B8973EFD}.Debug|x86.Build.0 = Debug|Win32
+		{BCC9A76A-CBEE-42C4-BF93-2F21B8973EFD}.Release|x64.ActiveCfg = Release|x64
+		{BCC9A76A-CBEE-42C4-BF93-2F21B8973EFD}.Release|x64.Build.0 = Release|x64
+		{BCC9A76A-CBEE-42C4-BF93-2F21B8973EFD}.Release|x86.ActiveCfg = Release|Win32
+		{BCC9A76A-CBEE-42C4-BF93-2F21B8973EFD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32E6FB12-93C9-4067-A680-297667E4A289}
+	EndGlobalSection
+EndGlobal
