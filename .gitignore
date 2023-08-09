@@ -32,7 +32,11 @@
 *.app
 
 # Folders to Ignore
+# C++
 x64/
 v15/
 v16/
 Debug
+# C#
+obj/
+.vs/
