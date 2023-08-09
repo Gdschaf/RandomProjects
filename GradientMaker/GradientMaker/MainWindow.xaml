@@ -1,0 +1,16 @@
+﻿<Window x:Class="GradientMaker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:wpfx="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:local="clr-namespace:GradientMaker"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="111" Margin="10,10,0,0" Stroke="Black" VerticalAlignment="Top" Width="772"/>
+        <wpfx:ColorPicker Name="ColorPickerLeft" Height="30" DisplayColorAndName="True" Margin="10,126,644,263" />
+        <wpfx:ColorPicker Name="ColorPickerRight" Height="30" DisplayColorAndName="True" Margin="644,126,10,263" />
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Margin="10,161,0,0" Height="248" Width="772"/>
+    </Grid>
+</Window>
