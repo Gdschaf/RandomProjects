@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Folders to Ignore
+x64/
+v15/
+v16/
+Debug

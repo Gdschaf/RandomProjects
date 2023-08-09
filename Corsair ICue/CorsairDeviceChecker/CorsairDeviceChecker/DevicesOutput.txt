@@ -1,0 +1,173 @@
+There are 2 connected Corsair devices.
+
+Device 0:
+	Type: CDT_Keyboard
+	Model: K70 RGB
+	Device ID: 
+	LED Count: 111
+	Channel Count: 0
+	Available LEDs:
+		CLK_Tab
+		CLK_Q
+		CLK_W
+		CLK_E
+		CLK_R
+		CLK_T
+		CLK_Y
+		CLK_Escape
+		CLK_F1
+		CLK_F2
+		CLK_F3
+		CLK_F4
+		CLK_F5
+		CLK_F6
+		CLK_F7
+		CLK_F8
+		CLK_F9
+		CLK_F10
+		CLK_F11
+		CLK_GraveAccentAndTilde
+		CLK_1
+		CLK_2
+		CLK_ApostropheAndDoubleQuote
+		CLK_LeftShift
+		CLK_Z
+		CLK_X
+		CLK_C
+		CLK_V
+		CLK_B
+		CLK_N
+		CLK_M
+		CLK_CommaAndLessThan
+		CLK_PeriodAndBiggerThan
+		CLK_SlashAndQuestionMark
+		CLK_LeftCtrl
+		CLK_LeftGui
+		CLK_LeftAlt
+		CLK_U
+		CLK_I
+		CLK_O
+		CLK_P
+		CLK_BracketLeft
+		CLK_CapsLock
+		CLK_A
+		CLK_S
+		CLK_D
+		CLK_F
+		CLK_G
+		CLK_H
+		CLK_J
+		CLK_K
+		CLK_L
+		CLK_SemicolonAndColon
+		CLK_BracketRight
+		CLK_Backslash
+		CLK_Enter
+		CLK_EqualsAndPlus
+		CLK_Backspace
+		CLK_Delete
+		CLK_End
+		CLK_PageDown
+		CLK_RightShift
+		CLK_RightCtrl
+		CLK_UpArrow
+		CLK_LeftArrow
+		CLK_DownArrow
+		CLK_Space
+		CLK_RightAlt
+		CLK_RightGui
+		CLK_Application
+		CLK_Brightness
+		CLK_F12
+		CLK_PrintScreen
+		CLK_ScrollLock
+		CLK_PauseBreak
+		CLK_Insert
+		CLK_Home
+		CLK_PageUp
+		CLK_Keypad4
+		CLK_Keypad5
+		CLK_Keypad6
+		CLK_Keypad1
+		CLK_Keypad2
+		CLK_Keypad3
+		CLK_Keypad0
+		CLK_KeypadPeriodAndDelete
+		CLK_RightArrow
+		CLK_WinLock
+		CLK_Mute
+		CLK_Stop
+		CLK_ScanPreviousTrack
+		CLK_PlayPause
+		CLK_ScanNextTrack
+		CLK_NumLock
+		CLK_KeypadSlash
+		CLK_KeypadAsterisk
+		CLK_KeypadMinus
+		CLK_KeypadPlus
+		CLK_KeypadEnter
+		CLK_Keypad7
+		CLK_Keypad8
+		CLK_Keypad9
+		CLK_3
+		CLK_4
+		CLK_5
+		CLK_6
+		CLK_7
+		CLK_8
+		CLK_9
+		CLK_0
+		CLK_MinusAndUnderscore
+
+Device 1:
+	Type: CDT_LightingNodePro
+	Model: Lighting Node Pro
+	Device ID: 
+	LED Count: 32
+	Channel Count: 1
+	Available LEDs:
+		CLD_C1_1
+		CLD_C1_2
+		CLD_C1_3
+		CLD_C1_4
+		CLD_C1_5
+		CLD_C1_6
+		CLD_C1_7
+		CLD_C1_8
+		CLD_C1_9
+		CLD_C1_10
+		CLD_C1_11
+		CLD_C1_12
+		CLD_C1_13
+		CLD_C1_14
+		CLD_C1_15
+		CLD_C1_16
+		CLD_C1_17
+		CLD_C1_18
+		CLD_C1_19
+		CLD_C1_20
+		CLD_C1_21
+		CLD_C1_22
+		CLD_C1_23
+		CLD_C1_24
+		CLD_C1_25
+		CLD_C1_26
+		CLD_C1_27
+		CLD_C1_28
+		CLD_C1_29
+		CLD_C1_30
+		CLD_C1_31
+		CLD_C1_32
+
+	Channel 0:
+		LED Count: 32
+		Channel Devices: 2
+
+		Channel Device 0:
+			Type: CCDT_LL_Fan
+			LED Count: 16
+
+		Channel Device 1:
+			Type: CCDT_LL_Fan
+			LED Count: 16
+

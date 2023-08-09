@@ -1,0 +1,29 @@
+<CorsairSettings>
+  <FanSettings>
+  	<Fan index="0">
+  		<Offset name="outer">3</Offset>
+  		<Offset name="inner">0</Offset>
+  		<Reverse name="outer">false</Reverse>
+  		<Reverse name="inner">false</Reverse>
+  	</Fan>
+  	<Fan index="1">
+  		<Offset name="outer">5</Offset>
+  		<Offset name="inner">0</Offset>
+  		<Reverse name="outer">true</Reverse>
+  		<Reverse name="inner">false</Reverse>
+  	</Fan>
+  </FanSettings>
+  <CyclingElements>
+  	<FigureEightFan>
+  			<FadingColor>
+  				<Color name="starting" red="0" green="255" blue="128" alpha="255" />
+  				<Color name="ending" red="0" green="0" blue="0" alpha="255" />
+  				<FadeDuration>0.5</FadeDuration>
+  			</FadingColor>
+  			<ListOfFans>
+  				<FanIndex>0</FanIndex>
+  				<FanIndex>1</FanIndex>
+  			</ListOfFans>
+  	</FigureEightFan>
+  </CyclingElements>
+</CorsairSettings>

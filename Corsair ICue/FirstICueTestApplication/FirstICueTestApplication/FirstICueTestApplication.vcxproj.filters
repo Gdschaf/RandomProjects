@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\GameLoop">
+      <UniqueIdentifier>{7fb8c9e8-972f-4bfe-9825-885ec547a5e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Corsair">
+      <UniqueIdentifier>{ed3bfe49-c677-413e-a533-9b22108d1d8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Generic">
+      <UniqueIdentifier>{16c1516d-c852-44b3-97d0-68561f94b3ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Input">
+      <UniqueIdentifier>{ac0d8353-b231-4998-958b-79a8609c7268}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameLoop">
+      <UniqueIdentifier>{f0d69d53-e238-4b36-8ef8-91f111608806}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Generic">
+      <UniqueIdentifier>{86816883-0ff6-4f11-a4c9-e1d653864837}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Corsair">
+      <UniqueIdentifier>{3f9f106a-8191-42d6-95aa-6e394d2545ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Input">
+      <UniqueIdentifier>{e1df9132-bc1e-4960-818a-d038fed314dc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CycleSystem.cpp">
+      <Filter>Source Files\GameLoop</Filter>
+    </ClCompile>
+    <ClCompile Include="CyclingFan.cpp">
+      <Filter>Source Files\GameLoop</Filter>
+    </ClCompile>
+    <ClCompile Include="CyclingRing.cpp">
+      <Filter>Source Files\GameLoop</Filter>
+    </ClCompile>
+    <ClCompile Include="FigureEightFans.cpp">
+      <Filter>Source Files\GameLoop</Filter>
+    </ClCompile>
+    <ClCompile Include="ReversingFan.cpp">
+      <Filter>Source Files\GameLoop</Filter>
+    </ClCompile>
+    <ClCompile Include="SnowflakeFan.cpp">
+      <Filter>Source Files\GameLoop</Filter>
+    </ClCompile>
+    <ClCompile Include="FadingColor.cpp">
+      <Filter>Source Files\Generic</Filter>
+    </ClCompile>
+    <ClCompile Include="Fan.cpp">
+      <Filter>Source Files\Corsair</Filter>
+    </ClCompile>
+    <ClCompile Include="FanManager.cpp">
+      <Filter>Source Files\Corsair</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml2.cpp">
+      <Filter>Source Files\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="XMLHelper.cpp">
+      <Filter>Source Files\Input</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Fan.h">
+      <Filter>Header Files\Corsair</Filter>
+    </ClInclude>
+    <ClInclude Include="FanManager.h">
+      <Filter>Header Files\Corsair</Filter>
+    </ClInclude>
+    <ClInclude Include="Color.h">
+      <Filter>Header Files\Generic</Filter>
+    </ClInclude>
+    <ClInclude Include="LoopedLinkedList.h">
+      <Filter>Header Files\Generic</Filter>
+    </ClInclude>
+    <ClInclude Include="CorsairLedIdStrings.h">
+      <Filter>Header Files\Corsair</Filter>
+    </ClInclude>
+    <ClInclude Include="CycleSystem.h">
+      <Filter>Header Files\GameLoop</Filter>
+    </ClInclude>
+    <ClInclude Include="CyclingFan.h">
+      <Filter>Header Files\GameLoop</Filter>
+    </ClInclude>
+    <ClInclude Include="CyclingRing.h">
+      <Filter>Header Files\GameLoop</Filter>
+    </ClInclude>
+    <ClInclude Include="FadingColor.h">
+      <Filter>Header Files\Generic</Filter>
+    </ClInclude>
+    <ClInclude Include="FigureEightFans.h">
+      <Filter>Header Files\GameLoop</Filter>
+    </ClInclude>
+    <ClInclude Include="ReversingFan.h">
+      <Filter>Header Files\GameLoop</Filter>
+    </ClInclude>
+    <ClInclude Include="SnowflakeFan.h">
+      <Filter>Header Files\GameLoop</Filter>
+    </ClInclude>
+    <ClInclude Include="InputSystem.h">
+      <Filter>Header Files\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="tinyxml2.h">
+      <Filter>Header Files\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="XMLHelper.h">
+      <Filter>Header Files\Input</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
