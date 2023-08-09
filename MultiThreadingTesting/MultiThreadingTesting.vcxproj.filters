@@ -27,9 +27,6 @@
     <ClCompile Include="JthreadPrimeNumber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="SemaphorePrimeNumber.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PerformanceTimer.h">
@@ -42,9 +39,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="JthreadPrimeNumber.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="SemaphorePrimeNumber.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

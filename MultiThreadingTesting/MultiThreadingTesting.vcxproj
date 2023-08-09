@@ -135,14 +135,12 @@
     <ClCompile Include="JthreadPrimeNumber.cpp" />
     <ClCompile Include="MultiThreadingTesting.cpp" />
     <ClCompile Include="PrimeNumber.cpp" />
-    <ClCompile Include="SemaphorePrimeNumber.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AsyncPrimeNumber.h" />
     <ClInclude Include="JthreadPrimeNumber.h" />
     <ClInclude Include="PerformanceTimer.h" />
     <ClInclude Include="PrimeNumber.h" />
-    <ClInclude Include="SemaphorePrimeNumber.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
